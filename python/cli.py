@@ -1,8 +1,7 @@
 import click
 import requests
 
-API_URL = ("https://5vl5kit83e.execute-api.us-east-1.amazonaws.com/test/send_m"
-           "essage")
+API_URL = "https://api.noticast.io/send_message"
 
 # Use send_message() in your own code!
 
